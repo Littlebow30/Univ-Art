@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 "hello this is a texst"
+"test2"
 // These imports won't work until you fix ./components/index.js
 import {
   Feature,
